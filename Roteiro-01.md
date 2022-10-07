@@ -413,7 +413,7 @@ Navegue até o diretório *Downloads* e clone o repositório
 ```console
 foo@bar$ cd
 foo@bar$ cd Downloads
-foo@bar$ git clone https://github.com/stlink-org/stlink stlink-tools
+foo@bar$ ~/downloads$ git clone https://github.com/stlink-org/stlink stlink-tools
 ```
 
 ![Ubuntu terminal](./images/ubuntu-stlink-clone.jpg "Ubuntu terminal")
